@@ -77,4 +77,10 @@ Open your browser at `http://localhost:8501`.
 - **LLM & Embeddings**: [Google GenAI SDK](https://github.com/google-gemini/generative-ai-python) (Gemini Flash & Gemini Embedding models)
 - **Vector Database**: [ChromaDB](https://www.trychroma.com/)
 - **Document Parsers**: PyPDF2, python-docx
-"# -CareerGuide-AI" 
+"# -CareerGuide-AI"
+
+## Demo Images 
+ <img width="1865" height="847" alt="image" src="https://github.com/user-attachments/assets/da9cbca2-54bb-4685-bdae-2c899c6f579f" />
+ <img width="1865" height="847" alt="Screenshot 2026-09-24 164139" src="https://github.com/user-attachments/assets/54860cb6-73a3-4c64-ae21-2603a7ecb31f" />
+
+
