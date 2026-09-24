@@ -81,6 +81,7 @@ Open your browser at `http://localhost:8501`.
 
 ## Demo Images 
  <img width="1865" height="847" alt="image" src="https://github.com/user-attachments/assets/da9cbca2-54bb-4685-bdae-2c899c6f579f" />
- <img width="1865" height="847" alt="Screenshot 2026-09-24 164139" src="https://github.com/user-attachments/assets/54860cb6-73a3-4c64-ae21-2603a7ecb31f" />
+<img width="1916" height="847" alt="Screenshot 2026-09-24 164115" src="https://github.com/user-attachments/assets/df8fc239-88cc-41b4-9c6e-6405c7a5c3fc" />
+
 
 
